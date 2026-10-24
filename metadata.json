@@ -1,0 +1,6 @@
+{
+  "name": "Simulador de Crédito & Tabla de Amortización",
+  "description": "Simulador ágil e interactivo de créditos y tabla de amortización con exportación a Excel, Google Sheets y modo de impresión.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

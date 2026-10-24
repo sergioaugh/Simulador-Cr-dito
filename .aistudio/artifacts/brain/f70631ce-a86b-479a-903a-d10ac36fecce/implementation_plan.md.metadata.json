@@ -1,0 +1,6 @@
+{
+  "summary":  "Plan de implementación para la aplicación web de Simulación de Crédito y Tabla de Amortización basada en la plantilla Excel/CSV, con cálculo de cuotas (fija y personalizada), advertencia de cuota deficitaria, descarga en Excel (.xlsx), integración y exportación a Google Sheets, vista imprimible y diseño responsivo de alto rendimiento.",
+  "updatedAt":  "2026-10-24T21:53:40.813299412Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
